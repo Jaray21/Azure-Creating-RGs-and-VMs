@@ -32,9 +32,21 @@ Now for virtual machines it is somewhat of a similar process as the resource gro
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vE6xSvI.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WWU1Gon.png" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After making the virtual machines you can create, adjust, and delete security rules along with other settings. In these photos I use the Linux VM I made and create a security rule with a high priority, then I proceed to delete the rule to set the VM to how it was before.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TYfxwsl.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AML3fi9.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZFEai4x.png" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/14Oe8UT.png" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+If you are done using the VM's you can either delete them or stop them from running to save money. To stop the VM you would go to the virtual machine page right click on the VM you want to stop running and simply hit the stop button. If the VM is not going to be used again then it is much better to delete the VM in which you can right click on the VM you want to delete and hit the delete button or just delete the whole resource group alltogether in turn deleting everything in the resource group including the VM's. In the photos I show myself deleting the resource groups to also get rid of the virtual machines.
 </p>
 <br />
